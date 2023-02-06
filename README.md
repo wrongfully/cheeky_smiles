@@ -20,7 +20,7 @@ The party packages starts at **$100** for the basic package. The customers can p
 *Example Input:*
 
 ```
-"1H,20c,20b,4p,20s"
+1H,20c,20b,4p,20s
 ```
 \
 *Example Output:*
