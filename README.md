@@ -36,7 +36,3 @@ Soda, 20, $10.00
 Base Price: 100
 Total: $245.00
 ```
-
-
-
-<script src="//onlinegdb.com/embed/js/Cff41NxYi?theme=dark"></script>
