@@ -3,8 +3,9 @@
 
 Cheeky Smiles owns a party hosting company. He would like a more efficient way to charge customers for parties. Cheeky Smiles has decided to write a python algorithm that can automatically email invoices to customers. The invoices should include the line-item prices for the customer's request. 
 
-The party price starts at **$100** for the basic package. The customers can pay extra for any addons.  
+The party packages starts at **$100** for the basic package. The customers can pay extra for any addons.  
 
+\
 **Addons Price List:**
 - Bouncy House (H): $50
 - Slip & Slide (S): $40
@@ -15,14 +16,14 @@ The party price starts at **$100** for the basic package. The customers can pay 
 - Cake (C): $15
 - Cupcakes (c): $.25 per cupcake
 
-
-Example Input:
+\
+*Example Input:*
 
 ```
 "1H,20c,20b,4p,20s"
 ```
-
-Example Output:
+\
+*Example Output:*
 ```
 Thank you for choosing Cheeky Smiles for your party needs! Here is your itemized invoice:
 
